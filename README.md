@@ -8,12 +8,12 @@
 ---
 
 ## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nittyansh) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nittyansh)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nittyansh-srivastava)  
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) 
 ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=plastic&logo=spring&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)  
@@ -29,19 +29,19 @@
 
 ---
 
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=lucifersfier&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=lucifersfier&theme=blue-green&hide_border=false)<br/>
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=lucifersfier&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=lucifersfier&theme=blue-green&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lucifersfier&theme=blue-green&hide_border=false&layout=compact)
 
 ---
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=lucifersfier&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
